@@ -1,0 +1,5 @@
+graph LR
+  A["<img src=x onerror=alert(document.domain)>"] --> B
+  C-->D
+  click A "javascript:alert(document.domain)" "tt"
+  click C href "javascript:alert(2)"
